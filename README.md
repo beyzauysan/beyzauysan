@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Beyza</h1>
-<h3 align="center">A Software Developer from Kocaeli/Turkey</h3>
+<h3 align="center">A Smart Contract Developer from Kocaeli/Turkey</h3>
  
  
-- 🔭 I’m currently working on React.js and Meteor.js.
-- 🌱 I’m currently learning Vue.js.
-- 💬 You can ask me about the software.
+🔭 I’m currently working on Blockchain Technology and Dapps.
+🌱 I’m currently learning Swift and Dart.
+💬 If you have any questions you can ask me.
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beyzauysan" alt="beyzauysan" /></a> </p>
  
