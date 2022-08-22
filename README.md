@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Beyza</h1>
+<h1 align="center">Hi 👋 I'm Beyza (She/Her)</h1>
 <h3 align="center">A Smart Contract Developer from Kocaeli/Turkey</h3>
  
  
